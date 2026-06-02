@@ -1,4 +1,4 @@
-# Lab Note — 2026/06/01  
+# Lab Note — 2026/05/29
 ## Making the Hexbug Neutrally Buoyant
 
 ## Objective
